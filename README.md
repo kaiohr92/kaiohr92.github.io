@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!--
   ============================================================
   FAQ Sicoob — Pronto para SharePoint
